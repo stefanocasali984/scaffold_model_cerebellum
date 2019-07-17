@@ -1,0 +1,16 @@
+edge_type_id;model_template;delay;syn_weight
+1;nest:static_synapse;2;20
+2;nest:static_synapse;2;75
+3;nest:static_synapse;4;-9
+4;nest:static_synapse;1;-2,5
+5;nest:static_synapse;1;-2
+6;nest:static_synapse;4;2
+7;nest:static_synapse;4;9
+8;nest:static_synapse;2;-5
+9;nest:static_synapse;4;-0,03
+10;nest:static_synapse;5;0,2
+11;nest:static_synapse;5;0,2
+12;nest:static_synapse;5;0,2
+13;nest:static_synapse;5;-8,5
+14;nest:static_synapse;4;0,006
+15;nest:static_synapse;1;-8
