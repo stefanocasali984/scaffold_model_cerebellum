@@ -7,7 +7,7 @@
     },
     "components": {
         "synaptic_models_dir": "$COMPONENT_DIR/synapse_dynamics",
-        "point_neuron_models_dir": "$COMPONENT_DIR/cell_dynamics",
+        "point_neuron_models_dir": "$COMPONENT_DIR/cell_dynamics"
     },
     "networks": {
         "nodes": [
