@@ -1,8 +1,8 @@
-node_type_id;ei;model_template;model_type;dynamics_params;model_name
-1;i;nest:iaf_cond_exp;point_neuron;golgi.json;golgi
-2;e;nest:parrot_neuron;point_neuron;NONE;glomerulus
-3;e;nest:iaf_cond_exp;point_neuron;granule.json;granule
-4;i;nest:iaf_cond_exp;point_neuron;purkinje.json;purkinje
-5;i;nest:iaf_cond_exp;point_neuron;mli.json;basket
-6;i;nest:iaf_cond_exp;point_neuron;mli.json;stellate
-7;e;nest:iaf_cond_exp;point_neuron;dcn.json;dcn
+node_type_id model_template model_type dynamics_params model_name
+1 nest:iaf_cond_exp point_neuron golgi.json golgi
+2 nest:parrot_neuron point_neuron NONE glomerulus
+3 nest:iaf_cond_exp point_neuron granule.json granule
+4 nest:iaf_cond_exp point_neuron purkinje.json purkinje
+5 nest:iaf_cond_exp point_neuron mli.json basket
+6 nest:iaf_cond_exp point_neuron mli.json stellate
+7 nest:iaf_cond_exp point_neuron dcn.json dcn

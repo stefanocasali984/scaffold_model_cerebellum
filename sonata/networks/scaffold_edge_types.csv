@@ -1,16 +1,17 @@
-edge_type_id;model_template;delay;syn_weight
-1;nest:static_synapse;2;20
-2;nest:static_synapse;2;75
-3;nest:static_synapse;4;-9
-4;nest:static_synapse;1;-2,5
-5;nest:static_synapse;1;-2
-6;nest:static_synapse;4;2
-7;nest:static_synapse;4;9
-8;nest:static_synapse;2;-5
-9;nest:static_synapse;4;-0,03
-10;nest:static_synapse;5;0,2
-11;nest:static_synapse;5;0,2
-12;nest:static_synapse;5;0,2
-13;nest:static_synapse;5;-8,5
-14;nest:static_synapse;4;0,006
-15;nest:static_synapse;1;-8
+edge_type_id model_template delay syn_weight
+1 nest:static_synapse 2.0 20.0
+2 nest:static_synapse 2.0 75.0
+3 nest:static_synapse 4.0 -9.0
+4 nest:static_synapse 1.0 -2.5
+5 nest:static_synapse 1.0 -2.0
+6 nest:static_synapse 4.0 2.0
+7 nest:static_synapse 4.0 9.0
+8 nest:static_synapse 2.0 -5.0
+9 nest:static_synapse 4.0 -0.03
+10 nest:static_synapse 5.0 0.2
+11 nest:static_synapse 5.0 0.2
+12 nest:static_synapse 5.0 0.2
+13 nest:static_synapse 5.0 0.2
+14 nest:static_synapse 5.0 -8.5
+15 nest:static_synapse 4.0 0.006
+16 nest:static_synapse 1.0 -8.0
