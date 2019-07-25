@@ -3,3 +3,5 @@
 
  Code use for the Frontiers in Neuroinformatics paper:
  https://www.frontiersin.org/articles/10.3389/fninf.2019.00037/full
+ 
+ For a SONATA implementation of the model, see scaffold_sonata folder
