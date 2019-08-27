@@ -21,3 +21,16 @@ late spike.
 * Run the simulation in pyNN: --> run_scaffold.py
 
 * To show simple raster plot of output spikes: --> output/plot_spikes.py 
+
+## Directories
+### components 
+Two subfolders: json files with specific cell types dynamics (e.g., spike threshold, Cm ecc) are into cell_dynamics; the synapse_dynamics
+folder is empty, by now. 
+
+### inputs 
+* scaffold_full_200.0x200.0_v3.hdf5 : this file stores data to reconstruct scaffold structure and connections. 
+* set_stim.py : this file allows to change (some) input properties.
+* external_spike_trains.h5 : the output of set_stim.py; specifies input spike-times for each glomerulus. 
+
+### networks
+Main files for network architecture 
