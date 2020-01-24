@@ -1,0 +1,2 @@
+beta_Ca model_template model_type node_type_id tau_Ca
+0.001 nest:parrot_neuron point_neuron 2 10000.0

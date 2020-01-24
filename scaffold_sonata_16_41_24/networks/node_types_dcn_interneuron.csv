@@ -1,0 +1,2 @@
+cm e_rev_E e_rev_I i_offset model_template model_type node_type_id tau_m tau_refrac tau_syn_E tau_syn_I v_reset v_rest v_thresh
+56.0 0.0 -70.0 7.0 pynn:IF_cond_alpha point_neuron 5 20.0 0.8 3.64 1.14 -55.0 -40.0 -39.0
